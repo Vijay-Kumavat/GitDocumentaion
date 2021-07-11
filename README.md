@@ -14,19 +14,19 @@ GitHub is a hosting site where developers and programmers can upload the code th
    
    *Method 1 :*
         
-                Create a new project.
-                Open the project in vs code.
-                Clone the repositories (with a new folder, then start the implementation).
+          > Create a new project.
+          > Open the project in vs code.
+          > Clone the repositories (with a new folder, then start the implementation).
                 
    *Method 2 :*
                 
-                Open the existing project in vs code.
-                Open the git bash in the new terminal.
-                Git important command : git --help.
-                Run the following git command.
-                git init : Create an empty Git repository or reinitialize an existing.
-                git add . : Add file contents to the index
-                git status : Show the working tree status
+          Open the existing project in vs code.
+          Open the git bash in the new terminal.
+          Git important command : git --help.
+          Run the following git command.
+          git init : Create an empty Git repository or reinitialize an existing.
+          git add . : Add file contents to the index
+          git status : Show the working tree status
                 git commit -m ‘<commit>’ .  : Record changes to the repository
                 git branch -M <branch>. : List, create, or delete branches
                 git remote add origin <url>.
@@ -53,7 +53,7 @@ Git commands :
 
 Important links of gits commands : 
 
-https://github.com/git-guides/
+https://github.com/git-guides/ 
 https://www.c-sharpcorner.com/article/managing-files-on-github-using-git-bash-in-real-time-scenario-know-about/
 
 
