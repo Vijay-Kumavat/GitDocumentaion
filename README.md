@@ -12,13 +12,13 @@ GitHub is a hosting site where developers and programmers can upload the code th
 
 **Process**
    
-   *Method 1*
+   *Method 1 :*
         
                 Create a new project.
                 Open the project in vs code.
                 Clone the repositories (with a new folder, then start the implementation).
                 
-   *Method 2*
+   *Method 2 :*
                 
                 Open the existing project in vs code.
                 Open the git bash in the new terminal.
@@ -31,21 +31,23 @@ GitHub is a hosting site where developers and programmers can upload the code th
                 git branch -M <branch>. : List, create, or delete branches
                 git remote add origin <url>.
                 git push -u origin <branch>.
+                
+   *Git command :*
 
-git checkout -b <new_branch> : Create the new branch
-git checkout <branch> : Switch the branch
-git branch -d  <branch> : Delete the branch
-git add <file> : Add the changing file into staging.
-git commit -m <commit> . : commit the staging files.
-git push origin <branch> : push the changes into the selected branch.
-git config --get remote.origin.url : Check the clone url
-git push origin <branch> --force : push the changes forcefully.
-git add --all : all files are added in the staging section.
- git log : find the author and insert date time.
-?? - Untracked files
-A - Files added to stage 
-M - Modified files 
-D - Deleted files
+               git checkout -b <new_branch> : Create the new branch
+               git checkout <branch> : Switch the branch
+               git branch -d  <branch> : Delete the branch
+               git add <file> : Add the changing file into staging.
+               git commit -m <commit> . : commit the staging files.
+               git push origin <branch> : push the changes into the selected branch.
+               git config --get remote.origin.url : Check the clone url
+               git push origin <branch> --force : push the changes forcefully.
+               git add --all : all files are added in the staging section.
+               git log : find the author and insert date time.
+               ?? - Untracked files
+               A - Files added to stage 
+               M - Modified files 
+               D - Deleted files
 Git commands : 
 
 
