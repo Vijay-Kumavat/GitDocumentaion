@@ -52,12 +52,14 @@ Git commands :
 
 
 Important links of gits commands : 
+
 https://github.com/git-guides/
 https://www.c-sharpcorner.com/article/managing-files-on-github-using-git-bash-in-real-time-scenario-know-about/
 
 
 
 Error List : 
+
 fatal: Unable to create 'C:/Users/vijay/OneDrive/Desktop/All.Code/Angular/AngularOne/.git/index.lock': File exists.
 rm -f ./.git/index.lock
 
