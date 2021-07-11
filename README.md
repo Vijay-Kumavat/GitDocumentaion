@@ -1,7 +1,11 @@
 # Git Documentation
 
+![Alt Text](https://github.com/Vijay-Kumavat/GitDocumentation/blob/main/pasted%20image%200.png)
 
 What is Git & github ?
+
+![Alt Text](https://github.com/Vijay-Kumavat/GitDocumentation/blob/main/pasted%20image%200%20(1).png)
+![Alt_Text](https://github.com/Vijay-Kumavat/GitDocumentation/blob/main/pasted%20image%200%20(2).png)
 
 
 Why do we use git and github ?
@@ -73,6 +77,8 @@ GitHub is a hosting site where developers and programmers can upload the code th
    > M - Modified files 
    
    > D - Deleted files
+   
+![Alt_Text](https://github.com/Vijay-Kumavat/GitDocumentation/blob/main/pasted%20image%200%20(3).png)
 
 
 Important links of gits commands : 
