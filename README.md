@@ -11,6 +11,7 @@ Git is a version control system that lets you manage and keep track of your sour
 GitHub is a hosting site where developers and programmers can upload the code they create and work collaboratively to improve it. A defining feature of GitHub is its robust version control system. The version control lets coders tweak software—potentially fixing bugs or improving efficiency—without affecting the software itself or risking the experience of any current users. Proposed changes can be easily merged into the live software after the proposals are reviewed and approved.
 
 **Process**
+   
    *Method 1*
         
                 Create a new project.
