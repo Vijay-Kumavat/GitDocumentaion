@@ -14,9 +14,9 @@ GitHub is a hosting site where developers and programmers can upload the code th
    
    *Method 1 :*
         
-          > Create a new project.
-          > Open the project in vs code.
-          > Clone the repositories (with a new folder, then start the implementation).
+> Create a new project.
+> Open the project in vs code.
+> Clone the repositories (with a new folder, then start the implementation).
                 
    *Method 2 :*
                 
