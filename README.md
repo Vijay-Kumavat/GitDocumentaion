@@ -1,4 +1,4 @@
-# Git Documentaion
+# Git Documentation
 
 
 What is Git & github ?
@@ -11,20 +11,20 @@ Git is a version control system that lets you manage and keep track of your sour
 GitHub is a hosting site where developers and programmers can upload the code they create and work collaboratively to improve it. A defining feature of GitHub is its robust version control system. The version control lets coders tweak software—potentially fixing bugs or improving efficiency—without affecting the software itself or risking the experience of any current users. Proposed changes can be easily merged into the live software after the proposals are reviewed and approved.
 
 Process
-Create a new project.
-Open the project in vs code.
-Clone the repositories (with a new folder, then start the implementation).
-Open the existing project in vs code.
-Open the git bash in the new terminal.
-Git important command : git --help.
-Run the following git command.
-git init : Create an empty Git repository or reinitialize an existing.
-git add . : Add file contents to the index
-git status : Show the working tree status
-git commit -m ‘<commit>’ .  : Record changes to the repository
-git branch -M <branch>. : List, create, or delete branches
-git remote add origin <url>.
-git push -u origin <branch>.
+        Create a new project.
+        Open the project in vs code.
+        Clone the repositories (with a new folder, then start the implementation).
+        Open the existing project in vs code.
+        Open the git bash in the new terminal.
+        Git important command : git --help.
+        Run the following git command.
+        git init : Create an empty Git repository or reinitialize an existing.
+        git add . : Add file contents to the index
+        git status : Show the working tree status
+        git commit -m ‘<commit>’ .  : Record changes to the repository
+        git branch -M <branch>. : List, create, or delete branches
+        git remote add origin <url>.
+        git push -u origin <branch>.
 
 git checkout -b <new_branch> : Create the new branch
 git checkout <branch> : Switch the branch
